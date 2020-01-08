@@ -1,13 +1,3 @@
-# Display Board
-# Use input of user and convert to X or O
-# Placing the marker
-# Check if player won
-# Check if space is empty
-# Choose which player goes first
-# Check if board is full
-# Have the player select the position
-# Game Logic
-# Replay option
 from random import randint
 
 test_board = ["#", "O", "", "O", "X", "O", "X", "O", "X", "O"]
