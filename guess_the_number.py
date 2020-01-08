@@ -1,3 +1,5 @@
+# Author: Fabian Rodriguez
+
 import random
 
 print('Welcome to Guess the number game!')
