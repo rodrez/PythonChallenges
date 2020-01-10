@@ -6,7 +6,7 @@ this at the time. As time went by, I started learning bit by bit whenever I had 
 Fortunately, I landed a got job and focused solely on that.
 
 However, after three years, I noticed that the job did not fulfill my passion, 
-and I ended up looking for something more. It was that time I remember my dream as a teen, a
+and I ended up looking for something more. It was at that time I remember my dream as a teen, a
 nd I said to myself, "Now you are 26, and have no excuses to become who you always wanted to become. 
 Will you be proud of yourself in 10 years?" I realized that there is no better time than the present 
 to pursue your dreams and work as hard as possible to accomplish those dreams. 
