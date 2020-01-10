@@ -37,4 +37,3 @@ while failed_attempts != 6:
 
 else:
     print("You have been hanged!")
-
