@@ -46,6 +46,17 @@ def pomodoro_timer(task_time, break_time):
         winsound.MessageBeep(frequency)
 # pomodoro_timer()
 
+# COuntdown timer 
+def timer():
+    # User timer that when it reaches 0 it will make a sound
+    time_lapse = int(input("Enter the amount of minutes you would like for your count down."))
+
+    for num in reversed(range(time_lapse*60+1)):
+        sleep(1)
+        print(num)
+# timer()
+
+
 if __name__ == '__main__':
     Process(target=pomodoro_timer, args=(user_time())).start()
     Process(target=clock).start()
