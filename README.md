@@ -19,3 +19,7 @@ to achieve my goals and dreams.
 This message was written on January 7, 2020. https://github.com/rodrez/PythonProjects
 Current amount of Python Practice :
 40 hours and 17 minutes.
+
+Update: February 9:
+Current amount of Python Practice:
+118hrs  and 6 minutes.
