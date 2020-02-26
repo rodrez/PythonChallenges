@@ -1,5 +1,3 @@
-import sys
-
 # Global Variable to hold the account balance
 account_balance = round(float(500.25),2)
 
