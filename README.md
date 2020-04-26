@@ -27,3 +27,7 @@ Current amount of Python Practice:
 Update: April 5:
 Current amount of Hours:
 297hrs  and 17 minutes.
+
+Update: April 25:
+Current amount of Hours:
+362hrs  and 8 minutes.
