@@ -31,3 +31,7 @@ Current amount of Hours:
 Update: April 25:
 Current amount of Hours:
 362hrs  and 8 minutes.
+
+Update: May 26:
+Current Amount of Hours:
+477hrs and 31 minutes.
